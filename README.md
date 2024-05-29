@@ -1,6 +1,18 @@
 # MANAGER
 Here is the code of the paper titled "Modal-adaptive Knowledge-enhanced Graph-based Financial Prediction from Monetary Policy Conference Calls with LLM", which is accepted by LREC Coling 2024-FinNLP (oral).
 
-You can find the paper at https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-kdf-2024/accepted-papers?authuser=0.
+Citation
 
-The whole schedule of this program can be accessed at https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-kdf-2024/program.
+@inproceedings{ouyang-etal-2024-modal-adaptive,
+    title = "Modal-adaptive Knowledge-enhanced Graph-based Financial Prediction from Monetary Policy Conference Calls with {LLM}",
+    author = "Ouyang, Kun  and
+      Liu, Yi  and
+      Li, Shicheng  and
+      Bao, Ruihan  and
+      Harimoto, Keiko  and
+      Sun, Xu",
+    booktitle = "Proceedings of the Joint Workshop of the 7th Financial Technology and Natural Language Processing, the 5th Knowledge Discovery from Unstructured Data in Financial Services, and the 4th Workshop on Economics and Natural Language Processing @ LREC-COLING 2024",
+    month = may,
+    year = "2024",
+    pages = "59--69"
+}
