@@ -1,6 +1,14 @@
 # MANAGER
 Here is the code of the paper titled "Modal-adaptive Knowledge-enhanced Graph-based Financial Prediction from Monetary Policy Conference Calls with LLM", which is accepted by LREC Coling 2024-FinNLP (oral).
 
+1. prepare the FINDKG
+Please refer to https://github.com/xiaohui-victor-li/FinDKG
+
+2. Download Hu-BERT and process the audio
+https://github.com/facebookresearch/fairseq/tree/main/examples/hubert
+
+
+
 Citation
 
 @inproceedings{ouyang-etal-2024-modal-adaptive,
