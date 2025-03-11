@@ -7,6 +7,7 @@ Please refer to https://github.com/xiaohui-victor-li/FinDKG
 2. Download Hu-BERT and process the audio
 https://github.com/facebookresearch/fairseq/tree/main/examples/hubert
 
+3. The processed video data can be downloaded at https://github.com/monopoly-monitory-policy-calls/MONOPOLY
 
 
 Citation
